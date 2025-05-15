@@ -1,0 +1,6 @@
+android-mpos-emv-sdk/android-mPOS-sdk-v-3.4.0.zip filter=lfs diff=lfs merge=lfs -text
+android-mpos-emv-sdk/mPOS-Android-SDK-3.4.0-Release-Notes.pdf filter=lfs diff=lfs merge=lfs -text
+android-mpos-emv-sdk/mPOS-EMV-SDK-3.4.0-Documentation_Android.zip filter=lfs diff=lfs merge=lfs -text
+ios-mpos-emv-sdk/iOS_mPOS_SDK_3.4.0.zip filter=lfs diff=lfs merge=lfs -text
+ios-mpos-emv-sdk/mPOS-EMV-SDK-3.4.0-Documentation_iOS.zip filter=lfs diff=lfs merge=lfs -text
+ios-mpos-emv-sdk/mPOS-iOS-SDK-3.4.0-Release-Notes.pdf filter=lfs diff=lfs merge=lfs -text
